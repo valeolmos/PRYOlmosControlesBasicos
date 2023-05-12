@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRYOlmosControlesBasicos", "PRYOlmosControlesBasicos\PRYOlmosControlesBasicos.csproj", "{38E2F333-0376-41EB-8F92-04CF2839C4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E2F333-0376-41EB-8F92-04CF2839C4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E2F333-0376-41EB-8F92-04CF2839C4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E2F333-0376-41EB-8F92-04CF2839C4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E2F333-0376-41EB-8F92-04CF2839C4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58460850-FAAB-4E3A-8EA8-5A142CF6290D}
+	EndGlobalSection
+EndGlobal
